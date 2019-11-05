@@ -8,4 +8,4 @@ requests
 termcolor  
 
 ## License
-IDGAF License
+WTFPL License
