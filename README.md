@@ -1,5 +1,5 @@
 # URL!
-A url fetcher from major search engines.  
+A url collector from major search engines.  
 
 Still in development, so there will be bugs.   
 If you got any bugs, please tell me in issues. Thx BTW.  
